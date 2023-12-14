@@ -1,8 +1,13 @@
 # Table of contents
 
-* [First Page](README.md)
-* [Second Page](second-page.md)
-
-## First Group
-
-* [Third Page](first-group/third-page.md)
+* [Overview](README.md)
+* [Statistics](statistics.md)
+* [Roadmap](roadmap.md)
+* [How Things Work](how-things-work/README.md)
+  * [Create Manual Quiz](how-things-work/create-manual-quiz.md)
+  * [Create AI Quiz](how-things-work/create-ai-quiz.md)
+  * [Play Quiz](how-things-work/play-quiz.md)
+* [Our Team](our-team.md)
+* [Brand Assets](brand-assets.md)
+* [Join Our Community](join-our-community.md)
+* [News From Smartly](news-from-smartly.md)
